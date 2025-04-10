@@ -4,9 +4,14 @@
 
 ## Executive Summary
 
-Landano is a blockchain-powered Software-as-a-Service (SaaS) platform designed to transform land and property rights management. Targeted at both individuals and government agencies, Landano simplifies land transactions, enhances security, and provides immutable digital property records through Cardano blockchain technology.
+Landano is a blockchain-powered Software-as-a-Service (SaaS) platform designed to transform land and property rights management. Targeted at both individuals and government agencies, Landano simplifies land transactions, enhances security, and provides immutable digital property records through Cardano and Bitcoin blockchain technology.
 
-This document explains the platform features, the role of the LANDO utility token, its tokenomics, and its cross-bridge integration with Bitcoin Runes.
+This document explains the: 
+1. market opportunity
+2. platform features
+3. utility token
+4. tokenomic
+5. cross-bridge integration with Bitcoin Runes.
 
 
 ## Market Opportunity
