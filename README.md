@@ -1,4 +1,11 @@
-# Landano: Revolutionizing Land Ownership with Blockchain
+# Landano Whitepaper: Property rights secured, for everyone
+
+## Special notice: 
+This is a working document that will be populated to match a Web3 whitepaper. These sections follow. Firstly, however, the Landano project needs to answer the question, why is a (utility) token needed for Landano and why has a cross-chain solution been chosen.
+
+
+
+---
 
 ## Executive Summary
 
@@ -6,7 +13,6 @@ Landano is a blockchain-powered Software-as-a-Service (SaaS) platform designed t
 
 With 5.5 billion people lacking formal land records, Landano is positioned as a first-mover solution in an underserved $1+ trillion global market. The platform is gaining traction in Ghana and Mozambique, with over 24,000 land records already uploaded to the Cardano testnet and partnerships covering over 5 million people.
 
----
 
 ## Market Opportunity
 
