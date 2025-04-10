@@ -56,7 +56,6 @@ Landowners and administrators can easily access and manage property records thro
 Local chiefs and authorities authenticate land records, ensuring trust and legitimacy. Land ownership in many African communities is based on traditional governance structures, and Landano integrates these customary leaders into the blockchain verification process. This prevents disputes and enhances adoption at the grassroots level.
 ## Collateralization & DeFi Integration
 Land records can be used for microloans and decentralized finance (DeFi) lending. This enables landowners to unlock the financial value of their property, even if they do not have formal bank access. For example, a smallholder farmer can use their digitally registered land as collateral to secure funding for crops without needing a traditional bank loan.
-
 ## Map and List Views
 Users can view land records through interactive maps or lists, filtering plots by ownership, land type, and transaction status. This provides a clearer visual representation of property distribution and ownership history. For instance, a land buyer can search for available plots in a specific region using predefined filters.
 ## Identity Verification & Privacy
